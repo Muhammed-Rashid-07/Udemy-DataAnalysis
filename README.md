@@ -1,23 +1,29 @@
-Data Analysis of Udemy Courses
-This repository contains a data analysis project of Udemy courses. The dataset used in this analysis is available on Kaggle here.
+# Data Analysis of Udemy Courses
+This repository contains a data analysis project of Udemy courses. 
+The dataset used in this analysis is available on Kaggle here.
 
-Motivation
-The motivation behind this analysis was to explore and gain insights into the Udemy platform and its courses. I was interested in answering questions such as:
+## Motivation
+The motivation behind this analysis was to explore and gain insights into the Udemy platform and its courses.
+I was interested in answering questions such as:
 
-What are the most popular courses on Udemy?
-Which category has the highest number of courses?
-What is the distribution of course prices?
-How do course ratings and number of subscribers correlate?
+### What are the most popular courses on Udemy?
+### Which category has the highest number of courses?
+### What is the distribution of course prices?
+### How does difficulty of course related to number of subscribers?
+### How does price affect number of subscribers?
+### Top 10 python,js,finance courses in udemy.
+### Is there any relation between content duration and number of subscribers?
+
 Technologies Used
 The following technologies were used for this analysis:
 
-Python 3
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Contents
+### Python 3
+### Jupyter Notebook
+### Pandas
+### NumPy
+### Matplotlib
+### Seaborn
+## Contents
 The repository contains the following files:
 
 udemy_data_analysis.ipynb: Jupyter Notebook containing the code for the analysis.
@@ -30,7 +36,11 @@ The most popular courses on Udemy are in the categories of Web Development, Busi
 The category with the highest number of courses is Web Development.
 The distribution of course prices is right-skewed, with most courses priced between $0 and $200.
 There is a weak positive correlation between course ratings and number of subscribers.
-Acknowledgments
+Free courses has more subscribers than paid courses.
+The growth of subscribers is increasing in 2011 to 2015. 2016 to 2017 it was decreasing.
+
+
+## Acknowledgments
 I would like to thank Udemy for providing the dataset used in this analysis, and Kaggle for hosting it. Special thanks to the creators of the technologies used in this project, as well as the data science community for sharing their knowledge and resources.
 
 
